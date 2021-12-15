@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dipanshu-pimplikar
+- 👋 Hi, I’m Dipanshu Pimplikar
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently working as ASE @ GlobalLogic - A Hitachi group company
 - 💞️ I’m looking to collaborate on AI/ML projects
