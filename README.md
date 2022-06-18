@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dipanshu Pimplikar
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently working as ASE @ GlobalLogic - A Hitachi group company
+- 🌱 I’m currently working as SE @ GlobalLogic - A Hitachi group company
 - 💞️ I’m looking to collaborate on AI/ML projects
 - 📫 How to reach me -> email: dipanshup07@gmail.com
 
